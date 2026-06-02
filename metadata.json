@@ -1,0 +1,6 @@
+{
+  "name": "Enfermero Hugo",
+  "description": "Página web de marca personal para Hugo, enfermero profesional y divulgador de salud. Incluye recursos, blog de debate y tienda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
